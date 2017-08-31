@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-I am Hao. I am computer science major.
+I am Hao. My major is computer science.
